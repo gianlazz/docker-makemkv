@@ -1,0 +1,11 @@
+{
+    "name": "MakeMKV",
+    "version": "1",
+    "slug": "makemkv",
+    "description": "Backup blueray & dvd media.",
+    "arch": ["amd64"],
+    "startup": "application",
+    "boot": "auto",
+    "options": {},
+    "schema": {}
+  }

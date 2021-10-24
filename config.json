@@ -1,5 +1,6 @@
 {
     "name": "MakeMKV",
+    "image": "jlesage/makemkv:latest",
     "version": "1",
     "slug": "makemkv",
     "description": "Backup blueray & dvd media.",
